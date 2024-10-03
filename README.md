@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yen Wu—a Software Engineer with 8+ years of experience in software development, DevOps, and cloud services. I specialize in building scalable systems with technologies like Java, Spring Boot, Python, C++, Node.js, and have extensive experience in AWS and Kubernetes.<br><br>I’m passionate about solving complex problems, optimizing performance, and creating reliable infrastructure. Check out my repositories for projects that involve CI/CD automation, cloud-based applications, and distributed systems. Always eager to collaborate and contribute to open-source projects!
+👋 Hi, I’m a Software Engineer with a deep passion for software development, DevOps, and cloud services. I specialize in building scalable systems with technologies like Java, Spring Boot, Python, C++, Node.js, and have extensive experience in AWS and Kubernetes.<br><br>I’m passionate about solving complex problems, optimizing performance, and creating reliable infrastructure. Check out my repositories for projects that involve CI/CD automation, cloud-based applications, and distributed systems. Always eager to collaborate and contribute to open-source projects!
 
 
 ## 🌐 Socials:
